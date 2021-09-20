@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "88585737871",
+    "project_id": "push-notification-60386",
+    "storage_bucket": "push-notification-60386.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88585737871:android:5706929e6a7bf3a80602fa",
+        "android_client_info": {
+          "package_name": "com.example.handlingpushnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88585737871-o51v101c81hh1s2ajs4tl6ti3ms6pk7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeOkzqNziyofzNlCgFnZuWjIBwHXYfGLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88585737871-o51v101c81hh1s2ajs4tl6ti3ms6pk7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
